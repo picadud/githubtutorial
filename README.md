@@ -1,3 +1,3 @@
-#for training
+# for training
 
-hi asshole
+hi asshole!
